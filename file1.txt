@@ -6,3 +6,4 @@ fifth line from the repository
 sixth line after merge conflict
 seventh line after push
 eight line from the repository
+ninth line from the repository
