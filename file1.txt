@@ -9,3 +9,4 @@ eight line from the repository
 ninth line from the repository
 ninth line from the mac terminal
 Hi from the echo command
+Hello from new_feature 
